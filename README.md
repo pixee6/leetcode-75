@@ -15,6 +15,6 @@ I'm solving each problem step by step to improve my coding, problem-solving, and
 | 1 | Two Sum               | [01_two_sum.py](01_two_sum.py)         |
 | 2 | Palindrome Number     | [02_palindrome_number_math.py](02_palindrome_number_math.py) |
 | 3 | Roman to Integer      | [03_roman_to_integer.py](03_roman_to_integer.py) |
-
+| 4 | Longest Common Prefix | [04_longest_common_prefix.py](04_longest_common_prefix.py) |
 
 More problems coming soon. Follow along!
