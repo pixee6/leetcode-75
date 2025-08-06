@@ -17,3 +17,4 @@ class Solution:
                 nums[slow] = nums[fast]
 
         return slow + 1
+  
