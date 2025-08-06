@@ -17,7 +17,8 @@ I'm solving each problem step by step to improve my coding, problem-solving, and
 | 3 | Roman to Integer      | [03_roman_to_integer.py](03_roman_to_integer.py) |
 | 4 | Longest Common Prefix | [04_longest_common_prefix.py](04_longest_common_prefix.py) |
 | 5 | Valid Parentheses | [05_valid_parentheses.py](05_valid_parentheses.py) |
-| 06  | Add Two Numbers          | [View Code](06-add-two-numbers.py) |
+| 6  | Add Two Numbers          | [View Code](06-add-two-numbers.py) |
+| 7 | Remove Duplicates from Sorted Array | Two Pointers |
 
 
 More problems coming soon. Follow along!
