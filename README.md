@@ -19,5 +19,6 @@ I'm solving each problem step by step to improve my coding, problem-solving, and
 | 5 | Valid Parentheses | [05_valid_parentheses.py](05_valid_parentheses.py) |
 | 6 | Add Two Numbers                 | [06-add-two-numbers.py](06-add-two-numbers.py) |
 | 7 | Remove Duplicates from Sorted Array | [07-remove-duplicates-from-sorted-array.py](07-remove-duplicates-from-sorted-array.py) |
+| 8 | Merge Two Sorted Lists | [08-merge-two-sorted-lists.py](08-merge-two-sorted-lists.py) |
 
 More problems coming soon. Follow along!
