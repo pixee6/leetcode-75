@@ -20,7 +20,8 @@ I'm solving each problem step by step to improve my coding, problem-solving, and
 | 6 | Add Two Numbers                 | [06-add-two-numbers.py](06-add-two-numbers.py) |
 | 7 | Remove Duplicates from Sorted Array | [07-remove-duplicates-from-sorted-array.py](07-remove-duplicates-from-sorted-array.py) |
 | 8 | Merge Two Sorted Lists | [08-merge-two-sorted-lists.py](08-merge-two-sorted-lists.py) |
-| 9  | Remove Element | [09_remove_element.py](09_remove_element.py) |
+| 9  | Remove Element | [remove_element.py](remove_element.py) |
+
 
 
 
