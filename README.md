@@ -21,6 +21,8 @@ I'm solving each problem step by step to improve my coding, problem-solving, and
 | 7 | Remove Duplicates from Sorted Array | [07-remove-duplicates-from-sorted-array.py](07-remove-duplicates-from-sorted-array.py) |
 | 8 | Merge Two Sorted Lists | [08-merge-two-sorted-lists.py](08-merge-two-sorted-lists.py) |
 | 9  | Remove Element | [remove_element.py](remove_element.py) |
+| 10  | [09 - Find the Index of the First Occurrence in a String](09_find_first_occurrence.py)
+
 
 
 
