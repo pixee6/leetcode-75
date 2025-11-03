@@ -26,7 +26,7 @@ I'm solving each problem step by step to improve my coding, problem-solving, and
 | 8 | Merge Two Sorted Lists | [08-merge-two-sorted-lists.py](08-merge-two-sorted-lists.py) |
 | 9 | Remove Element | [09-remove_element.py](09-remove_element.py) |
 | 10 | Find the Index of the First Occurrence in a String | [10_find_first_occurrence.py](10_find_first_occurrence.py) |
-11 | [Search Insert Position](11_search_insert_position.py) | [LeetCode Problem 35](https://leetcode.com/problems/search-insert-position/)
+11 | [Search Insert Position] | [LeetCode Problem 35](https://leetcode.com/problems/search-insert-position/)
 
 
 
